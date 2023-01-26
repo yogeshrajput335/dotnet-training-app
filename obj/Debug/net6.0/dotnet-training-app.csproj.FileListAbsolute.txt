@@ -1,0 +1,15 @@
+G:\Work\Training\dotnet-training-app\bin\Debug\net6.0\dotnet-training-app.exe
+G:\Work\Training\dotnet-training-app\bin\Debug\net6.0\dotnet-training-app.deps.json
+G:\Work\Training\dotnet-training-app\bin\Debug\net6.0\dotnet-training-app.runtimeconfig.json
+G:\Work\Training\dotnet-training-app\bin\Debug\net6.0\dotnet-training-app.dll
+G:\Work\Training\dotnet-training-app\bin\Debug\net6.0\dotnet-training-app.pdb
+G:\Work\Training\dotnet-training-app\obj\Debug\net6.0\dotnet-training-app.csproj.AssemblyReference.cache
+G:\Work\Training\dotnet-training-app\obj\Debug\net6.0\dotnet-training-app.GeneratedMSBuildEditorConfig.editorconfig
+G:\Work\Training\dotnet-training-app\obj\Debug\net6.0\dotnet-training-app.AssemblyInfoInputs.cache
+G:\Work\Training\dotnet-training-app\obj\Debug\net6.0\dotnet-training-app.AssemblyInfo.cs
+G:\Work\Training\dotnet-training-app\obj\Debug\net6.0\dotnet-training-app.csproj.CoreCompileInputs.cache
+G:\Work\Training\dotnet-training-app\obj\Debug\net6.0\dotnet-training-app.dll
+G:\Work\Training\dotnet-training-app\obj\Debug\net6.0\refint\dotnet-training-app.dll
+G:\Work\Training\dotnet-training-app\obj\Debug\net6.0\dotnet-training-app.pdb
+G:\Work\Training\dotnet-training-app\obj\Debug\net6.0\dotnet-training-app.genruntimeconfig.cache
+G:\Work\Training\dotnet-training-app\obj\Debug\net6.0\ref\dotnet-training-app.dll
