@@ -9,7 +9,13 @@
 
 //Animal a = new  Animal(); //Cannot create an instance of the abstract type or interface 'Animal'
 
-Rat r = new Rat();
-r.animalSound();
-r.sleep();
-r.run();
+// Rat r = new Rat();
+// r.animalSound();
+// r.sleep();
+// r.run();
+
+// RefClass r = new RefClass();
+// r.Main1();
+
+OutClass o = new OutClass();
+o.Main1();
