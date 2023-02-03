@@ -1,4 +1,5 @@
 ﻿using Reflection_Metadata;
+using DotnetTraining;
 // See https://aka.ms/new-console-template for more information
 // Dog d = new Dog();
 // d.animalSound();
@@ -64,5 +65,20 @@
 // Wrapper.InnerClass  i = new Wrapper.InnerClass();
 // i.ProcessData(100);
 
-Student s = new Student();
-s.Meth1(100);
+// Student s = new Student();
+// s.Meth1(100);
+// int i= 1000;
+// int d = 0;
+// try{
+//     //int res = i/d;
+//     throw new NullReferenceException("Name is Empty");
+// } catch(NullReferenceException   ex){
+//     Console.WriteLine("This is exception");
+// } catch(Exception   ex){
+//     Console.WriteLine("This is all exception");
+// } finally {
+//     Console.WriteLine("This is finalyy");
+// }
+
+JumpStatements js = new JumpStatements();
+js.ContinueExp();
