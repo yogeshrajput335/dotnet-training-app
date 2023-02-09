@@ -1,4 +1,4 @@
-//**********
+//********** https://www.csharpstar.com/star-pattern-programs-in-csharp/
 namespace StarPatterns{
     public class Box{
         public void DisplaySquare(int leg = 10){
